@@ -1,0 +1,11 @@
+Before DevOps, testing a product was challenging: software developers push their code and QA engineers test it and if it's okay - push to deploy it, if not, let developer team know that there's a problem. It was time-consuming and hard to communicate. Nowadays, companies use DevOps tools to automate processes. We use CI/CD to automate testing. It can push code to QA team and then deploy or send back to developers team.
+
+Technologies that we need:
+   Source Control - Git
+   Docker - to containerize code, so it can be easily built
+   Jenkins - to continuous integration and continuous delivery
+   Testing tools :
+      Selenium
+      Postman
+      JUnit
+   And other technologies needed like AWS, Kubernetes, Ansible
